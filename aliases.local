@@ -1,3 +1,7 @@
 alias a="cd ~/appacademy"
 alias be="bundle exec"
 alias r="bundle exec rspec"
+alias "gaa"="git add -A"
+alias "gcm"="git commit -m"
+alias "gco"="git checkout"
+alias "gs"="git status"
