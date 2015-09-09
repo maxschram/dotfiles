@@ -1,0 +1,10 @@
+[alias]
+  b = branch
+  co = checkout
+  aa = add -A
+  cm = commit -m
+  d = difftool
+  l = log --pretty=format:'%C(yellow)%h %Cred%ad %Cblue%an%Cgreen%d %Creset%s'--date=short
+[user]
+  name = Max Schram
+  email = maxbschram@gmail.com
