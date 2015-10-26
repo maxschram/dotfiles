@@ -1,4 +1,5 @@
 alias aa="cd ~/appacademy"
+alias c="cd ~/coding"
 alias be="bundle exec"
 alias r="bundle exec rspec"
 alias "gaa"="git add -A"
