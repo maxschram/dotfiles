@@ -1,3 +1,4 @@
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'elixir-lang/vim-elixir'
+Plug 'jparise/vim-graphql'
